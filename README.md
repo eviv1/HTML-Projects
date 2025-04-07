@@ -2,7 +2,7 @@
 All HTML projects I've (Evitha Viola) done thoughout the years.
 
 ## FSL
-Filipino Sign Language Page
+A guide for Filipino Sign Language
 
 ## ValMaSci
 A page about my highschool, Valenzuela City School of Mathematics and Science (ValMaSci).
