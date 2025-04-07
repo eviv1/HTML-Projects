@@ -3,6 +3,7 @@ All HTML projects I've (Evitha Viola) done thoughout the years.
 
 ## FSL
 A guide for Filipino Sign Language
+
 *Edit: I cannot upload it due to it being too big of a file :(*
 
 ## ValMaSci
